@@ -1,0 +1,9 @@
+G:\Dropbox\VS2015\testDocx\Docx_Various\bin\Debug\Docx_Various.exe.config
+G:\Dropbox\VS2015\testDocx\Docx_Various\bin\Debug\Docx_Various.exe
+G:\Dropbox\VS2015\testDocx\Docx_Various\bin\Debug\Docx_Various.pdb
+G:\Dropbox\VS2015\testDocx\Docx_Various\bin\Debug\DocX.dll
+G:\Dropbox\VS2015\testDocx\Docx_Various\obj\Debug\Docx_Various.Form1.resources
+G:\Dropbox\VS2015\testDocx\Docx_Various\obj\Debug\Docx_Various.Properties.Resources.resources
+G:\Dropbox\VS2015\testDocx\Docx_Various\obj\Debug\Docx_Various.csproj.GenerateResource.Cache
+G:\Dropbox\VS2015\testDocx\Docx_Various\obj\Debug\Docx_Various.exe
+G:\Dropbox\VS2015\testDocx\Docx_Various\obj\Debug\Docx_Various.pdb

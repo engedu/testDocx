@@ -1,0 +1,10 @@
+G:\Dropbox\VS2015\testDocx\ImageTest\bin\Debug\ImageTest.exe.config
+G:\Dropbox\VS2015\testDocx\ImageTest\obj\Debug\ImageTest.csprojResolveAssemblyReference.cache
+G:\Dropbox\VS2015\testDocx\ImageTest\obj\Debug\ImageTest.Form1.resources
+G:\Dropbox\VS2015\testDocx\ImageTest\obj\Debug\ImageTest.Properties.Resources.resources
+G:\Dropbox\VS2015\testDocx\ImageTest\obj\Debug\ImageTest.csproj.GenerateResource.Cache
+G:\Dropbox\VS2015\testDocx\ImageTest\bin\Debug\ImageTest.exe
+G:\Dropbox\VS2015\testDocx\ImageTest\bin\Debug\ImageTest.pdb
+G:\Dropbox\VS2015\testDocx\ImageTest\bin\Debug\DocX.dll
+G:\Dropbox\VS2015\testDocx\ImageTest\obj\Debug\ImageTest.exe
+G:\Dropbox\VS2015\testDocx\ImageTest\obj\Debug\ImageTest.pdb
