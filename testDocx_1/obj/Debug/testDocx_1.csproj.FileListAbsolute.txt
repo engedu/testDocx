@@ -1,0 +1,10 @@
+G:\Dropbox\VS2015\testDocx\testDocx_1\bin\Debug\testDocx_1.exe.config
+G:\Dropbox\VS2015\testDocx\testDocx_1\bin\Debug\testDocx_1.exe
+G:\Dropbox\VS2015\testDocx\testDocx_1\bin\Debug\testDocx_1.pdb
+G:\Dropbox\VS2015\testDocx\testDocx_1\bin\Debug\DocX.dll
+G:\Dropbox\VS2015\testDocx\testDocx_1\obj\Debug\testDocx_1.csprojResolveAssemblyReference.cache
+G:\Dropbox\VS2015\testDocx\testDocx_1\obj\Debug\testDocx_1.Form1.resources
+G:\Dropbox\VS2015\testDocx\testDocx_1\obj\Debug\testDocx_1.Properties.Resources.resources
+G:\Dropbox\VS2015\testDocx\testDocx_1\obj\Debug\testDocx_1.csproj.GenerateResource.Cache
+G:\Dropbox\VS2015\testDocx\testDocx_1\obj\Debug\testDocx_1.exe
+G:\Dropbox\VS2015\testDocx\testDocx_1\obj\Debug\testDocx_1.pdb
